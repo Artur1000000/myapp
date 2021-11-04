@@ -1,6 +1,6 @@
 import React from "react";
 
 const HeaderComponent = ()=>{
-    return <div>header</div>
+    return <div>HEADER COMPONENT</div>
 }
 export default HeaderComponent;
